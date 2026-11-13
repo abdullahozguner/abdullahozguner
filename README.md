@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**abdullahozguner/abdullahozguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Abdullah 👋
 
-Here are some ideas to get you started:
+🎓 Computer Engineering student at ATU, Türkiye.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building software, exploring AI, and turning ideas into real products.
+
+### 🚀 Currently
+- Developing RoastStudy, an AI-powered study app
+- Learning more about software engineering and AI
+- Exploring open-source development
+
+### 🛠 Tech Stack
+- **Languages:** Python, TypeScript
+- **Development:** React Native, Expo, Git
+- **Interests:** AI/ML, Mobile & Web Development
+
+### 🎯 Goals
+- Build products people actually use
+- Contribute to open-source software
+- Work with international engineering teams
+
+---
+*Learning, building, improving.*
